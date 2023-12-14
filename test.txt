@@ -1,4 +1,9 @@
 55
 hello I am Brian
+<<<<<<< HEAD
+I am another user-Focus
+I am testgit2
+=======
 I am Brian, this is my new content
 I am another user-Focus
+>>>>>>> a4d4d432a58393d9803509ce00fc8621b6e36c20
